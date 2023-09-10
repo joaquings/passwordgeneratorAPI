@@ -1,0 +1,14 @@
+#contenedor{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#pass{
+    background-color: rgb(254, 206, 102);
+    border-radius: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
